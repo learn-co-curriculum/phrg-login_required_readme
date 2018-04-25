@@ -118,4 +118,4 @@ Tells Rails to skip the `require_login` filter only on the `index` action.
 
 [filters]: http://guides.rubyonrails.org/action_controller_overview.html#filters
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/login_required_readme' title='Login Required Readme'>Login Required Readme</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Login Required Readme</p>
