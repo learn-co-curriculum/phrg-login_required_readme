@@ -118,4 +118,7 @@ Tells Rails to skip the `require_login` filter only on the `index` action.
 
 [filters]: http://guides.rubyonrails.org/action_controller_overview.html#filters
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-login_required_readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-login_required_readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+ 
 <p data-visibility='hidden'>PHRG Login Required Readme</p>
